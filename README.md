@@ -2,6 +2,8 @@
 
 Um assistente de IA capaz de analisar métricas de negócio, responder perguntas sobre dados e gerar insights automaticamente a partir de dashboards do PowerBI e datasets.
 
+---
+
 ## 📖 Sobre o Projeto
 
 O Virtual BI Analyst tem como objetivo transformar dados em informações acionáveis utilizando Inteligência Artificial.
