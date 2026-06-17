@@ -1,7 +1,3 @@
-# Virtual BI Analyst
-
----
-
 # 🗺️ Roadmap
 
 ## ✅ Fase 0 — Prova de Conceito
