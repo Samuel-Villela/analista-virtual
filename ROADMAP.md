@@ -196,4 +196,4 @@ Fase atual: **Fase 0 — Prova de Conceito**
 
 Samuel Villela
 
-Estudante de Ciência da Computação, apaixonado por Tecnologia, Inteligência Artificial e Desenvolvimento de Soluções que geram impacto real através de dados.
+Estudante de Ciência da Computação
