@@ -40,10 +40,11 @@ A ideia é permitir que qualquer usuário interaja com seus dados através de li
 - Python
 - Pandas
 - NumPy
-- Streamlit
-- Plotly
+- Streamlit (versões futuras)
+- Plotly (versões futuras)
 - FastAPI
-- OpenAI API
+- Ollama
+- OpenAI API (versões futuras)
 - Power BI
 - Git
 - GitHub
