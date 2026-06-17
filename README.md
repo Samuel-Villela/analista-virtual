@@ -1,3 +1,10 @@
+<p align="center">
+  <h1 align="center">🚀 Virtual BI Analyst</h1>
+  <p align="center">
+    Transformando dashboards em conversas inteligentes.
+  </p>
+</p>
+
 # 🚀 Virtual BI Analyst
 
 Um assistente de IA capaz de analisar métricas de negócio, responder perguntas sobre dados e gerar insights automaticamente a partir de dashboards do PowerBI e datasets.
