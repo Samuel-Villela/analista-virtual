@@ -13,7 +13,7 @@ Validar a integração entre dados e Inteligência Artificial.
   - [ ] Receita
   - [ ] Lucro
   - [ ] Ticket Médio
-- [ ] Integração com API OpenAI
+- [ ] Integração com Ollama ( Futuramente API OpenAi )
 - [ ] Resumo automático dos dados
 - [ ] Respostas a perguntas simples
 
