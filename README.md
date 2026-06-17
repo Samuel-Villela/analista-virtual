@@ -58,6 +58,8 @@ Durante o desenvolvimento deste projeto serão explorados temas como:
 - Arquitetura de Sistemas
 - Visualização de Dados
 
+---
+
 # 📈 Status do Projeto
 
 🚧 Em desenvolvimento
