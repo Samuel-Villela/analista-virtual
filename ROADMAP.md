@@ -21,7 +21,7 @@ Validar a integração entre dados e Inteligência Artificial.
 
 - Python
 - Pandas
-- OpenAI API
+- Ollama
 
 ### Entregável
 
