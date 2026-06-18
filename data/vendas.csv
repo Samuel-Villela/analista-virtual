@@ -1,0 +1,16 @@
+data,regiao,produto,vendas,lucro
+2025-01-01,Sudeste,Notebook,10000,2500
+2025-01-01,Sul,Mouse,3000,700
+2025-01-01,Nordeste,Teclado,2000,500
+2025-01-02,Sudeste,Smartphone,15000,3200
+2025-01-02,Sul,Notebook,9000,2100
+2025-01-02,Nordeste,Mouse,2500,600
+2025-01-03,Centro-Oeste,Teclado,1800,420
+2025-01-03,Sudeste,Smartphone,17000,3600
+2025-01-03,Norte,Mouse,1200,300
+2025-01-04,Sul,Smartphone,13000,2800
+2025-01-04,Nordeste,Notebook,8500,1900
+2025-01-04,Sudeste,Teclado,2200,550
+2025-01-05,Centro-Oeste,Smartphone,11000,2300
+2025-01-05,Norte,Notebook,7000,1600
+2025-01-05,Sudeste,Mouse,3200,750
