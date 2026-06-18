@@ -190,7 +190,7 @@ Relatórios prontos para reuniões e apresentações.
 
 🚧 Em desenvolvimento
 
-Fase atual: **Fase 0 — Prova de Conceito**
+Fase atual: **Fase 1 — Chat de Dados**
 
 ---
 
