@@ -8,14 +8,14 @@ Validar a integração entre dados e Inteligência Artificial.
 
 ### Funcionalidades
 
-- [ ] Importação de datasets CSV
-- [ ] Cálculo de KPIs básicos
-  - [ ] Receita
-  - [ ] Lucro
-  - [ ] Ticket Médio
-- [ ] Integração com Ollama ( Futuramente API OpenAi )
-- [ ] Resumo automático dos dados
-- [ ] Respostas a perguntas simples
+- [X] Importação de datasets CSV
+- [X] Cálculo de KPIs básicos
+  - [X] Receita
+  - [X] Lucro
+  - [X] Ticket Médio
+- [X] Integração com Ollama ( Futuramente API OpenAi )
+- [X] Resumo automático dos dados
+- [X] Respostas a perguntas simples
 
 ### Tecnologias
 
