@@ -42,6 +42,8 @@ Permitir interação conversacional com os dados.
 - [ ] Perguntas em linguagem natural
 - [ ] Respostas contextualizadas
 - [ ] Resumo automático do dataset
+- [ ] Upload de CSV
+- [ ] Memória da conversa
 
 ### Tecnologias
 
